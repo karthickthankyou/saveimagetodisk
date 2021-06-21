@@ -4,6 +4,8 @@
 npm i saveimagetodisk
 ```
 
+This package helps to easily save images to disk. It is very useful while scrapping.
+
 ## Usage
 
 ```javascript
@@ -14,6 +16,6 @@ saveImageToDisk('https://via.placeholder.com/150', 'images/output.jpg')
 
 ### Output file
 
-![alt text](https://github.com/karthickthankyou/saveimagetodisk/blob/main/images/output.jpg?raw=true)
+![images/output.jpg](https://github.com/karthickthankyou/saveimagetodisk/blob/main/images/output.jpg?raw=true)
 
-It helps to easily save images to disk. It is very useful while scrapping.
+_images/output.jpg_
