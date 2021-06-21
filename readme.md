@@ -9,7 +9,7 @@ This package helps to easily save images to disk. It is very useful while scrapp
 ## Usage
 
 ```javascript
-const { saveImageToDisk } = require('./index')
+const { saveImageToDisk } = require('saveimagetodisk')
 
 saveImageToDisk('https://via.placeholder.com/150', 'images/output.jpg')
 ```
